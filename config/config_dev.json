@@ -1,0 +1,11 @@
+{
+  "BannedNews": ["banner_one","banner_two"],
+  "Chat": [{
+    "Id": -282381796,
+    "Name": "gogroup"
+  }, {
+    "Id": -241966019,
+    "Name": "gogroup2"
+  }],
+  "BotToken": "761607209:AAEgTVfGW3HWDBmoQdHWs63shzlb_noGtp4"
+}
